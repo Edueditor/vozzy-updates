@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-10",
+  "notes": [
+    "Primeira versão: diagnóstico da voz com sugestão do motor",
+    "Reconstruir a voz (Sidon), Só limpar (ClearerVoice) ou os dois",
+    "Nivelar volume (−6 dB), Ouvir 10 s, Antes/Depois e Reconstrução",
+    "Substituir no lugar (ligado ao vídeo) ou Criar faixa abaixo, com Desfazer"
+  ],
+  "url": "https://github.com/Edueditor/vozzy-updates/releases/latest/download/Vozzy_completo.zip",
+  "page": "https://github.com/Edueditor/vozzy-updates"
+}
