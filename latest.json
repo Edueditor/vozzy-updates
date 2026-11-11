@@ -1,12 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "2026-11-11",
   "notes": [
-    "Reconstruir a voz agora usa Sidon + LavaSR: o Vozzy mistura os dois sozinho, frase por frase (Automático), e você ajusta na barra Sidon ↔ LavaSR.",
-    "Reconstruir e limpar: os três modelos juntos (Sidon + LavaSR, e o ClearerVoice limpa o que sobrou).",
-    "Prévia de 10 s com barra para clicar ou arrastar, Antes/Depois e fechar.",
-    "Nivelar volume: agora cada frase bate −6 dB no meter (antes só a sílaba mais alta chegava lá). Ele roda antes da reconstrução, que entende melhor a fala.",
-    "A etapa 2 não rola mais quando a prévia abre."
+    "Automático agora é um interruptor de ligar e desligar, como o Nivelar volume.",
+    "A Mistura mostra só Sidon e LavaSR nas pontas e a porcentagem no meio, embaixo da barra."
   ],
   "url": "https://github.com/Edueditor/vozzy-updates/releases/latest/download/Vozzy_completo.zip",
   "page": "https://github.com/Edueditor/vozzy-updates"
